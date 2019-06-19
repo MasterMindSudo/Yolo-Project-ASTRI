@@ -1,4 +1,9 @@
+
 # Yolo-Project-ASTRI
+
+Dependency : <br />
+ 1.https://pypi.org/project/yolo34py-gpu/  #yoloDetector for python <br />
+ 2.OPENCV <br />
 
 The project files' hireachy should be  <br />
 
